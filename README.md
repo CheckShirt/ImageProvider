@@ -146,7 +146,7 @@ public protocol ImageStorage {
 
 ### Diagram
 
-![ImageProvider] (https://user-images.githubusercontent.com/6268707/94352440-ed8a5c80-009f-11eb-9d46-07895e321790.png)
+![ImageProvider](https://user-images.githubusercontent.com/6268707/94352620-478c2180-00a2-11eb-9649-c59b93b09101.png)
 
 
 
